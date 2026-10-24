@@ -1,0 +1,68 @@
+
+---
+title: It Costs Too Much
+---
+
+The way you initially calculated it, the cost would be 1 dollar a month, or 
+perhaps 12 dollars per year. Because in your calculation, you looked only at 
+the money flowing out. But look at it from the perspective of the bank account, 
+whatever comes in as a payment was taken out as a tax before, the transactions 
+always cancel each other out. Now let's raise this basic income to a million 
+dollars. Every month you see a million dollars being removed from your account 
+to be followed by another transfer adding a million dollars. What is the cost 
+of the system? Again in your original calculation you only looked at money 
+going out so it would be 12 million dollars a year! For one person! ... yes it 
+would, so what? All outgoing transactions are matched with incoming ones. What 
+if we were to extend this basic income to apply to all inhabitants of the 
+country? Let's say we have 1 million inhabitants. What is the cost? Oh my god, 
+12 trillion dollars! Does that matter? It's a big number, but we are still 
+creating the same 0 dollar net outcome in all the bank accounts of all the 
+inhabitants.
+
+Now let's look at it from another perspective.
+
+Imagine a group of people in a country. The country has some homes, some water, 
+some food, some clothes, and some unused labor potential because they are all 
+just sitting around in a circle. The inhabitants also all have a bank account 
+with some money in it. Now you turn on your basic income system. What is the 
+end result? Effectively not much. The country still exists, there is the same 
+amount of water, same amount of food, same amount of clothes, everybody is 
+still just sitting around in a circle, so the labor potential is still the same. 
+Only the money has been rearranged a bit. The real cost here is only a little 
+bit of electricity to run the computers to move the money around. Nothing else 
+has changed.
+
+So what is a cost? A cost is someone somewhere doing actual work. A cost is 
+something of value being consumed. In many cases, a financial transaction 
+involves getting a thing. Like when you buy a sandwich. We can assume that 
+you will eat that sandwich, and it will be lost. The transaction is a proxy 
+for the consumption that is about to happen. A basic income payment on the 
+other hand does not involve consumption. It is what economists call a transfer 
+payment.
+
+There is a reason I said your argument was obviously flawed. Transfer payments 
+not being costs is standard economic theory that you get taught in economics 
+class. [Here](https://en.wikipedia.org/wiki/Transfer_payment) is the Wikipedia article on transfer payments, which states
+in its opening paragraph: "These payments are considered to be non-exhaustive 
+because they do not directly absorb resources or create output.
+
+In case you are wondering, if all payments always balance, what is the point 
+of having the system in the first place? And the answer is simple, because 
+you can mess around with the tax and create a differential between how much 
+is going in and how much is going out for an individual account. So one person 
+can receive more than he is paying, and another can pay more than he is receiving.
+
+The only things you have to worry about with a transfer payment system is 
+fairness and the incentives to work. Most of the stuff we have, has to be made 
+by someone. And that someone isn't going to like having to work while others 
+just receive for free. But here a basic income works very well. The basic income 
+always goes to everyone, including the guy that works. So as an individual you 
+don't have to worry about not getting something others are getting, you get that 
+payment too. All you have to do is decide if your salary is worth doing the job.
+
+And in case you are wondering, wouldn't everyone just quit their jobs and never 
+work again? No, of course not, because if people would do that, the amount of 
+stuff in the country decreases, the value of the basic income goes down because 
+the price of products increases. With the basic income not covering your cost 
+of living, you would quickly go find a job to supplement your income. The market 
+will find a balance.
